@@ -16,7 +16,7 @@ const Header = () => {
           </Link>
           <Link to={"/about"}>
             <li className="hover:cursor-pointer hover:shadow-sm hover:shadow-green-500">
-              About
+              Experience
             </li>
           </Link>
           <Link to={"/projects"}>
